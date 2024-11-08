@@ -64,8 +64,8 @@ This project is a to-do list application developed using React Native and Expo. 
 
 ### 📂 Project Index
 <details open>
-	<summary><b><code>APP-FIRST/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
+	<summary><b><code>APP-FIRST/</code></b></summary>
 		<blockquote>
 			<table>
 			<tr>
