@@ -70,24 +70,28 @@ This project is a to-do list application developed using React Native and Expo. 
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/package-lock.json'>package-lock.json</a></b></td>
+				<td><code>Contains the exact versions of dependencies used in the project.</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/blob/master/app.json'>app.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/app.json'>app.json</a></b></td>
+				<td><code>Configuration file for the Expo app.</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/blob/master/App.js'>App.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/App.js'>App.js</a></b></td>
+				<td><code>Main entry point of the React Native application.</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/blob/master/babel.config.js'>babel.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/babel.config.js'>babel.config.js</a></b></td>
+				<td><code>Babel configuration file for JavaScript transpilation.</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/package.json'>package.json</a></b></td>
+				<td><code>Lists project dependencies and scripts.</code></td>
+			</tr>
+			<tr>
+				<td><b><a href='https://github.com/Ryan-Bouanani/app-first/assets'>assets/</a></b></td>
+				<td><code>Contains images and other static resources used in the app.</code></td>
 			</tr>
 			</table>
 		</blockquote>
